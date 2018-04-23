@@ -3,8 +3,8 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Carleton Bioinformatics's documentation!
-===================================================
+Welcome to Carleton Bioinformatics!
+===================================
 
 .. toctree::
    :maxdepth: 2
@@ -12,6 +12,10 @@ Welcome to Carleton Bioinformatics's documentation!
 
    protocols/week3.md
    protocols/week4.md
+   protocols/week5.md
+   protocols/week6.md
+   protocols/week7.md
+   protocols/week8.md
 
 
 
