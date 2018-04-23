@@ -7,7 +7,7 @@ Welcome to Carleton Bioinformatics!
 ===================================
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Contents:
 
    protocols/week3.md
@@ -16,12 +16,3 @@ Welcome to Carleton Bioinformatics!
    protocols/week6.md
    protocols/week7.md
    protocols/week8.md
-
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
